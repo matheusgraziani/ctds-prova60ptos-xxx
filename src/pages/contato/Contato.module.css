@@ -1,0 +1,9 @@
+.Contato {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+  }
+  .Contato a {
+    color: blue;
+    text-decoration: underline;
+  }
